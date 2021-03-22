@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is Developer 1
 
 changes made by dev1
+=======
+This is Developer 1
+
+changes made by dev1
+>>>>>>> b2
